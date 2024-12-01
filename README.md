@@ -4,10 +4,10 @@ This repository contains Python code that utilizes the **ZMP Preview Control** m
 
 ### Result examples
 
-| x=0,theta=0       | ![a](./images/x=0,theta=0,x.png)   | ![a](./images/x=0,theta=0,y.png)  |
-| ----------------- | ---------------------------------- | --------------------------------- |
-| **x=5,theta=0**   | ![a](./images/x=5,theta=0,x.png)   | ![a](./images/x=5,theta=0,y.png)  |
-| **x=2,theta=15°** | ![a](./images/x=2,theta=15°,x.png) | ![a](./images/x=2,theta=15°,y.png)|
+| x=0,theta=0       | ![](./images/x=0,theta=0,x.png)   | ![](./images/x=0,theta=0,y.png)   |
+| ----------------- | --------------------------------- | --------------------------------- |
+| **x=5,theta=0**   | ![](./images/x=5,theta=0,x.png)   | ![](./images/x=5,theta=0,y.png)   |
+| **x=2,theta=15°** | ![](./images/x=2,theta=15°,x.png) | ![](./images/x=2,theta=15°,y.png) |
 
 ### Requirements
 
@@ -48,6 +48,8 @@ You can also adjust other parameters such as:
 - **Step length**
 - **Stride duration**
 - **ZMP reference points**
+
+[Repository Link](https://github.com/Yourccchen/ZMP_Preview_Control)
 
 ### References
 
